@@ -1,2 +1,0 @@
-# fCCtasks
-My freeCodecamp tasks
